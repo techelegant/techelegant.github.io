@@ -4,8 +4,7 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    //"start":"src/app.js" and run npm run start for online 
+    "start":"src/app.js"
   },
   "keywords": [],
   "author": "",
