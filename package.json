@@ -4,9 +4,7 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "start":"src/app.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-page -d build"
+    "start":"src/app.js" 
   },
   "keywords": [],
   "author": "",
