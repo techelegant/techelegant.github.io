@@ -4,17 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js",
-    "deploy": "gh-pages -d src/app.js"
+    "start": "node src/app.js"    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "homepage": "https://techelegant.github.io/",
   "dependencies": {
-    "express": "^4.18.2",
-    "gh-pages": "^4.0.0",
-    "hbs": "^4.2.0",
-    "nodemon": "^2.0.20"
+    "express": "^4.18.2",    
+    "hbs": "^4.2.0"
   }
 }
